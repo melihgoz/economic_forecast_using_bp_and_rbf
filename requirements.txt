@@ -1,0 +1,6 @@
+# Requirements.txt
+
+Numpy
+Pandas
+scikit-learn
+openpyxl
